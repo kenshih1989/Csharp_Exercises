@@ -3,8 +3,8 @@
 - [x] **Logic and If Statement** : completed on 6th February 2026
 - [x] **Switch** : completed on 6th February 2026
 - [x] **Functions and Scopes** : completed on 6th February 2026
-- [ ] **Arrays and Lists**
-- [ ] **Loops**
+- [x] **Loops**: completed on 6th February 2026
+- [x] **Arrays and Lists**: completed on 6th February 2026
 - [ ] **Class**
 - [ ] **Static**
 - [ ] **Access Modifiers**
