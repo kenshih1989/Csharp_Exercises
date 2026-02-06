@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables_and_Data_Types", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic_and_If_Statement", "Logic_and_If_Statement\Logic_and_If_Statement.csproj", "{EB8FDF6B-AC46-4A10-A8D0-A25431E113C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{27495720-3639-4F15-B94E-DAA449751DA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EB8FDF6B-AC46-4A10-A8D0-A25431E113C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB8FDF6B-AC46-4A10-A8D0-A25431E113C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB8FDF6B-AC46-4A10-A8D0-A25431E113C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27495720-3639-4F15-B94E-DAA449751DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27495720-3639-4F15-B94E-DAA449751DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27495720-3639-4F15-B94E-DAA449751DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27495720-3639-4F15-B94E-DAA449751DA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
