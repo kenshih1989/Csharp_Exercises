@@ -7,3 +7,5 @@
 - [x] **Loops**: completed on 6th February 2026
 - [x] **Arrays and Lists**: completed on 6th February 2026
 - [x] **Class, Static and Access Modifiers**: completed on 7th February 2026
+**Begineer**
+- [ ] **Enum**
