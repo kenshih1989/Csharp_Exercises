@@ -9,4 +9,5 @@
 - [x] **Class, Static and Access Modifiers**: completed on 7th February 2026
 
 **Intermediate**
-- [ ] **Enum**: completed on 8th February 2026
+- [x] **Enum**: completed on 8th February 2026
+- [x] **Properties**: completed on 10th February 2026
