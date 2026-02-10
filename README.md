@@ -11,4 +11,4 @@
 **Intermediate**
 - [x] **Enum**: completed on 8th February 2026
 - [x] **Properties**: completed on 10th February 2026
-- [ ] **Multidimensional Array and Nested Loops**: completed on 10th February 2026
+- [x] **Multidimensional Array and Nested Loops**: completed on 10th February 2026
