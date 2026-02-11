@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Properties\Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multidimentional_Array_and_Nested_Loops", "Multidimentional_Array_and_Nested_Loops\Multidimentional_Array_and_Nested_Loops.csproj", "{DC15F23C-504A-441D-954A-F7F0E730DCF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{F6E123B0-A5AD-4888-A9F9-BCC49436EE66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DC15F23C-504A-441D-954A-F7F0E730DCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC15F23C-504A-441D-954A-F7F0E730DCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC15F23C-504A-441D-954A-F7F0E730DCF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E123B0-A5AD-4888-A9F9-BCC49436EE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E123B0-A5AD-4888-A9F9-BCC49436EE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E123B0-A5AD-4888-A9F9-BCC49436EE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E123B0-A5AD-4888-A9F9-BCC49436EE66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
