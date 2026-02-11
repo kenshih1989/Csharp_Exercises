@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multidimentional_Array_and_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{F6E123B0-A5AD-4888-A9F9-BCC49436EE66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{AEAEE104-0B29-4421-BCA0-4C582F75C98A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F6E123B0-A5AD-4888-A9F9-BCC49436EE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6E123B0-A5AD-4888-A9F9-BCC49436EE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6E123B0-A5AD-4888-A9F9-BCC49436EE66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEAEE104-0B29-4421-BCA0-4C582F75C98A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEAEE104-0B29-4421-BCA0-4C582F75C98A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEAEE104-0B29-4421-BCA0-4C582F75C98A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEAEE104-0B29-4421-BCA0-4C582F75C98A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
