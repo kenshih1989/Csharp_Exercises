@@ -12,3 +12,7 @@
 - [x] **Enum**: completed on 8th February 2026
 - [x] **Properties**: completed on 10th February 2026
 - [x] **Multidimensional Array and Nested Loops**: completed on 10th February 2026
+- [x] **Recursion**: completed on 11th February 2026
+- [x] **Dictionary**: completed on 11th February 2026
+- [x] **Stack, Queue and HashSet**: completed on 12th February 2026
+- [x] **Params and Optional Parameters**: completed on 12th February 2026
