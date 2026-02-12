@@ -16,3 +16,5 @@
 - [x] **Dictionary**: completed on 11th February 2026
 - [x] **Stack, Queue and HashSet**: completed on 12th February 2026
 - [x] **Params and Optional Parameters**: completed on 12th February 2026
+- [x] **Values Vs References**: completed on 12th February 2026 (Concept answer only)
+- [x] **Struct**: completed on 12th February 2026
