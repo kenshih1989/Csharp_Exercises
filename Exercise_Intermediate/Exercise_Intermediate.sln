@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack_Queue_HashSet", "Stac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params_and_Optional_Parameters", "Params_and_Optional_Parameters\Params_and_Optional_Parameters.csproj", "{F92C501B-BF34-46C4-A358-C9CC2E3EFF1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structs", "Structs\Structs.csproj", "{2785CAA6-170F-4226-9980-2F1E58C2DC59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F92C501B-BF34-46C4-A358-C9CC2E3EFF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F92C501B-BF34-46C4-A358-C9CC2E3EFF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F92C501B-BF34-46C4-A358-C9CC2E3EFF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2785CAA6-170F-4226-9980-2F1E58C2DC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2785CAA6-170F-4226-9980-2F1E58C2DC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2785CAA6-170F-4226-9980-2F1E58C2DC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2785CAA6-170F-4226-9980-2F1E58C2DC59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
