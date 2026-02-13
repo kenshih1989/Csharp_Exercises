@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structs", "Structs\Structs.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_Overrides_Polymorphism", "Inheritance_Overrides_Polymorphism\Inheritance_Overrides_Polymorphism.csproj", "{8FAF5D9F-8464-486F-9B3C-1140DC061131}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{4DD7E570-B45D-44DB-9097-5B6FE69378E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{8FAF5D9F-8464-486F-9B3C-1140DC061131}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FAF5D9F-8464-486F-9B3C-1140DC061131}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FAF5D9F-8464-486F-9B3C-1140DC061131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD7E570-B45D-44DB-9097-5B6FE69378E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD7E570-B45D-44DB-9097-5B6FE69378E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD7E570-B45D-44DB-9097-5B6FE69378E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD7E570-B45D-44DB-9097-5B6FE69378E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
