@@ -19,3 +19,5 @@
 - [x] **Values Vs References**: completed on 12th February 2026 (Concept answer only)
 - [x] **Struct**: completed on 12th February 2026
 - [x] **Inheritance, Overrides and Polymorphism**: completed on 12th February 2026
+- [x] **Interfaces**: completed on 13th February 2026
+- [x] **Type Casting, is, as**: completed on 13 February 2026
