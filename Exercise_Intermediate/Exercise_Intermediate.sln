@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeCasting_is_as", "TypeCasting_is_as\TypeCasting_is_as.csproj", "{89F2D8DF-036B-4391-B3D4-815977AAD912}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch_Patern_Matching", "Switch_Patern_Matching\Switch_Patern_Matching.csproj", "{36EDC2A4-0E9B-48DB-BE16-615C427DD1BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{89F2D8DF-036B-4391-B3D4-815977AAD912}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89F2D8DF-036B-4391-B3D4-815977AAD912}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89F2D8DF-036B-4391-B3D4-815977AAD912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36EDC2A4-0E9B-48DB-BE16-615C427DD1BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36EDC2A4-0E9B-48DB-BE16-615C427DD1BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36EDC2A4-0E9B-48DB-BE16-615C427DD1BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36EDC2A4-0E9B-48DB-BE16-615C427DD1BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
