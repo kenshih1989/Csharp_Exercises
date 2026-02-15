@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36915.13
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11505.172 d18.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{B450C767-0B60-4692-A199-E604459705E2}"
 EndProject
@@ -26,6 +26,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeCasting_is_as", "TypeCasting_is_as\TypeCasting_is_as.csproj", "{89F2D8DF-036B-4391-B3D4-815977AAD912}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch_Patern_Matching", "Switch_Patern_Matching\Switch_Patern_Matching.csproj", "{36EDC2A4-0E9B-48DB-BE16-615C427DD1BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{89B31E74-F0D0-4EDC-8DE8-C429EF6E455E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{36EDC2A4-0E9B-48DB-BE16-615C427DD1BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36EDC2A4-0E9B-48DB-BE16-615C427DD1BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36EDC2A4-0E9B-48DB-BE16-615C427DD1BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89B31E74-F0D0-4EDC-8DE8-C429EF6E455E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B31E74-F0D0-4EDC-8DE8-C429EF6E455E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B31E74-F0D0-4EDC-8DE8-C429EF6E455E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B31E74-F0D0-4EDC-8DE8-C429EF6E455E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
