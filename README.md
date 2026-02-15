@@ -20,4 +20,7 @@
 - [x] **Struct**: completed on 12th February 2026
 - [x] **Inheritance, Overrides and Polymorphism**: completed on 12th February 2026
 - [x] **Interfaces**: completed on 13th February 2026
-- [x] **Type Casting, is, as**: completed on 13 February 2026
+- [x] **Type Casting, is, as**: completed on 13th February 2026
+- [x] **Switch Pattern Matching**: completed on 15th February 2026
+- [ ] **Delegate**
+- [ ] **Lambda vs Local Function**
