@@ -23,4 +23,5 @@
 - [x] **Type Casting, is, as**: completed on 13th February 2026
 - [x] **Switch Pattern Matching**: completed on 15th February 2026
 - [x] **Delegate**: completed on 15th February 2026
-- [ ] **Lambda vs Local Function**
+- [x] **Lambda vs Local Function**: completed on 16th February 2026
+- [x] **Events**: completed on 16th February 2026
