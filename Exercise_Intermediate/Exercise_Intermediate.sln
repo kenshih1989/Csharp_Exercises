@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.3.11505.172 d18.3
+VisualStudioVersion = 18.3.11505.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{B450C767-0B60-4692-A199-E604459705E2}"
 EndProject
@@ -28,6 +28,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch_Patern_Matching", "Switch_Patern_Matching\Switch_Patern_Matching.csproj", "{36EDC2A4-0E9B-48DB-BE16-615C427DD1BE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{89B31E74-F0D0-4EDC-8DE8-C429EF6E455E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda_Vs_Local_Function", "Lambda_Vs_Local_Function\Lambda_Vs_Local_Function.csproj", "{EA6260A0-0B31-499D-8248-418D29C60CC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{89B31E74-F0D0-4EDC-8DE8-C429EF6E455E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89B31E74-F0D0-4EDC-8DE8-C429EF6E455E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89B31E74-F0D0-4EDC-8DE8-C429EF6E455E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA6260A0-0B31-499D-8248-418D29C60CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6260A0-0B31-499D-8248-418D29C60CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6260A0-0B31-499D-8248-418D29C60CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6260A0-0B31-499D-8248-418D29C60CC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
