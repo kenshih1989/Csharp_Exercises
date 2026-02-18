@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda_Vs_Local_Function", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{24CAEA0C-6A4E-4A18-9DFC-5D90E5EEB1D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{B1754D61-F89B-4E4D-8C0C-EE99FE57BB1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{24CAEA0C-6A4E-4A18-9DFC-5D90E5EEB1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24CAEA0C-6A4E-4A18-9DFC-5D90E5EEB1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24CAEA0C-6A4E-4A18-9DFC-5D90E5EEB1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1754D61-F89B-4E4D-8C0C-EE99FE57BB1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1754D61-F89B-4E4D-8C0C-EE99FE57BB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1754D61-F89B-4E4D-8C0C-EE99FE57BB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1754D61-F89B-4E4D-8C0C-EE99FE57BB1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
