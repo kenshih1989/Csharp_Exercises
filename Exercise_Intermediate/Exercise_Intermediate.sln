@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{B1754D61-F89B-4E4D-8C0C-EE99FE57BB1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constants_and_ReadOnly", "Constants_and_ReadOnly\Constants_and_ReadOnly.csproj", "{703B4501-512E-4A1E-958B-941681EBF0A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{B1754D61-F89B-4E4D-8C0C-EE99FE57BB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1754D61-F89B-4E4D-8C0C-EE99FE57BB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1754D61-F89B-4E4D-8C0C-EE99FE57BB1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{703B4501-512E-4A1E-958B-941681EBF0A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703B4501-512E-4A1E-958B-941681EBF0A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703B4501-512E-4A1E-958B-941681EBF0A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703B4501-512E-4A1E-958B-941681EBF0A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
