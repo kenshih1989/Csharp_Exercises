@@ -25,3 +25,6 @@
 - [x] **Delegate**: completed on 15th February 2026
 - [x] **Lambda vs Local Function**: completed on 16th February 2026
 - [x] **Events**: completed on 16th February 2026
+- [x] **Generics**: completed on 18 February 2026
+- [x] **Constant and ReadOnly**: completed on 19 February 2026
+- [x] **Exception, TryCatchFinally**: completed on 19 February 2026
