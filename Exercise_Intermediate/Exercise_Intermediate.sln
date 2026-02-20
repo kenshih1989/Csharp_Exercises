@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constants_and_ReadOnly", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_TryCatchFinally", "Exception_TryCatchFinally\Exception_TryCatchFinally.csproj", "{90AFEB10-25D4-43A3-A0B0-81E58E2B17E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerable_and_IEnumerator", "IEnumerable\IEnumerable_and_IEnumerator.csproj", "{D765E342-06DC-474E-A493-C49AE1995C8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{90AFEB10-25D4-43A3-A0B0-81E58E2B17E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90AFEB10-25D4-43A3-A0B0-81E58E2B17E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90AFEB10-25D4-43A3-A0B0-81E58E2B17E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D765E342-06DC-474E-A493-C49AE1995C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D765E342-06DC-474E-A493-C49AE1995C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D765E342-06DC-474E-A493-C49AE1995C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D765E342-06DC-474E-A493-C49AE1995C8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
