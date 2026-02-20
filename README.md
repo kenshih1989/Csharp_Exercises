@@ -28,3 +28,4 @@
 - [x] **Generics**: completed on 18 February 2026
 - [x] **Constant and ReadOnly**: completed on 19 February 2026
 - [x] **Exception, TryCatchFinally**: completed on 19 February 2026
+- [x] **IEnumerable and IEnumerator**: completed on 20 February 2026
