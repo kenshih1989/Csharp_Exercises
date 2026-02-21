@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerable_and_IEnumerator
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yield_Return_and_Yield_Break", "Yield_Return_and_Yield_Break\Yield_Return_and_Yield_Break.csproj", "{F5B708F2-652F-4C99-9B84-713E34116C10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Namespaces", "Namespaces\Namespaces.csproj", "{AC049044-0607-4E79-8C13-A4B954C4FCBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{F5B708F2-652F-4C99-9B84-713E34116C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5B708F2-652F-4C99-9B84-713E34116C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5B708F2-652F-4C99-9B84-713E34116C10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC049044-0607-4E79-8C13-A4B954C4FCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC049044-0607-4E79-8C13-A4B954C4FCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC049044-0607-4E79-8C13-A4B954C4FCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC049044-0607-4E79-8C13-A4B954C4FCBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
