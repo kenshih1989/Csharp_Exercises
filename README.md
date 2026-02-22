@@ -31,3 +31,7 @@
 - [x] **IEnumerable and IEnumerator**: completed on 20 February 2026
 - [x] **yield return and yield break**: completed on 21 February 2026
 - [x] **Namespaces**: completed on 21 February 2026
+- [x] **Singleton**: completed on 22 February 2026
+
+**Advanced**
+- [x] **Reflection**: completed on 22 February 2026
