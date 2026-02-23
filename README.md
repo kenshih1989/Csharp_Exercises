@@ -35,3 +35,4 @@
 
 **Advanced**
 - [x] **Reflection**: completed on 22 February 2026
+- [x] **Function Extension**: completed on 23 February 2026
