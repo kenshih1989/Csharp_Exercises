@@ -36,3 +36,5 @@
 **Advanced**
 - [x] **Reflection**: completed on 22 February 2026
 - [x] **Function Extension**: completed on 23 February 2026
+- [x] **Static Constructor**: completed on 23 February 2026
+- [x] **nameof, typeof, sizeof and default**: completed on 23 February 2026
