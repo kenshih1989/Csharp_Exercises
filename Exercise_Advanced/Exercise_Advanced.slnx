@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Function_Extension/Function_Extension.csproj" Id="904d47a8-9c8e-4792-ae56-ff98124bf25f" />
+  <Project Path="nameof_typeof_sizeof_default/nameof_typeof_sizeof_default.csproj" Id="8750219b-77ba-4f3c-a0a5-471c6583568c" />
   <Project Path="Reflection/Reflection.csproj" />
   <Project Path="Static_Constructor/Static_Constructor.csproj" Id="502eebf7-39b3-4dae-8bb1-d13787106f10" />
 </Solution>
