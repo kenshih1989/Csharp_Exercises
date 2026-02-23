@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="Function_Extension/Function_Extension.csproj" Id="904d47a8-9c8e-4792-ae56-ff98124bf25f" />
   <Project Path="Reflection/Reflection.csproj" />
 </Solution>
