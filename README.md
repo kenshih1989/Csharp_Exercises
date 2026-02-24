@@ -38,3 +38,9 @@
 - [x] **Function Extension**: completed on 23 February 2026
 - [x] **Static Constructor**: completed on 23 February 2026
 - [x] **nameof, typeof, sizeof and default**: completed on 23 February 2026
+- [x] **Expression-bodied Members**: completed on 24 February 2026
+- [x] **Records**: completed on 24 February 2026
+- [x] **Null Conditional Operators**: completed on 24 February 2026
+- [x] **Null-Coalesing Operators**: completed on 24 February 2026
+- [x] **Ternary Conditional Operators**: completed on 24 February 2026
+
