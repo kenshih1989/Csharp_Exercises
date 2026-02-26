@@ -43,4 +43,5 @@
 - [x] **Null Conditional Operators**: completed on 24 February 2026
 - [x] **Null-Coalesing Operators**: completed on 24 February 2026
 - [x] **Ternary Conditional Operators**: completed on 24 February 2026
+- [x] **Nullable, Span and Bitwise Operators**: completed on 26 February 2026
 
