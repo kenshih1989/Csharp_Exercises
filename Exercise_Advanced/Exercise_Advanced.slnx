@@ -7,6 +7,7 @@
   <Project Path="Null_Conditional_Operators/Null_Conditional_Operators.csproj" Id="6f58c158-8247-4053-be0d-a447381db9f8" />
   <Project Path="Records/Records.csproj" Id="ac7a2922-ee0c-4633-a131-6fe8c0366712" />
   <Project Path="Reflection/Reflection.csproj" />
+  <Project Path="Ref_Out_In/Ref_Out_In.csproj" Id="dbf25610-ec4f-44af-aa8f-71283eec4cf3" />
   <Project Path="Static_Constructor/Static_Constructor.csproj" Id="502eebf7-39b3-4dae-8bb1-d13787106f10" />
   <Project Path="Ternary_Conditional_Operator/Ternary_Conditional_Operator.csproj" Id="9bb76f6f-7f05-424e-9a8e-12727e386540" />
 </Solution>
