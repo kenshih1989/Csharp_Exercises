@@ -45,4 +45,5 @@
 - [x] **Ternary Conditional Operators**: completed on 24 February 2026
 - [x] **Nullable, Span and Bitwise Operators**: completed on 26 February 2026
 - [x] **ref,out and in keyword**: completed on 27 February 2026
+- [x] **Enum Flags**: completed in 28 February 2026
 
