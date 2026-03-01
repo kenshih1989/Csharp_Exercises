@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="Anonymous_Types/Anonymous_Types.csproj" Id="1ea054c1-a9e2-49c9-b283-18690745fffa" />
+  <Project Path="Class_Indexer/Class_Indexer.csproj" Id="a0d460ba-eec8-4d5f-9f88-c8e95c8d0174" />
   <Project Path="Data_Boxing/Data_Boxing.csproj" Id="44182d7d-1731-453b-b21c-0c12f9675e3d" />
   <Project Path="Enum_Flags/Enum_Flags.csproj" Id="ef128c97-ee84-40b0-b880-85b533a0ee67" />
   <Project Path="Expression-bodied_Members/Expression-bodied_Members.csproj" Id="7fee176c-4c24-4964-9819-f3674bf4f93f" />
@@ -12,4 +14,5 @@
   <Project Path="Ref_Out_In/Ref_Out_In.csproj" Id="dbf25610-ec4f-44af-aa8f-71283eec4cf3" />
   <Project Path="Static_Constructor/Static_Constructor.csproj" Id="502eebf7-39b3-4dae-8bb1-d13787106f10" />
   <Project Path="Ternary_Conditional_Operator/Ternary_Conditional_Operator.csproj" Id="9bb76f6f-7f05-424e-9a8e-12727e386540" />
+  <Project Path="Tuples/Tuples.csproj" Id="7f09fba3-e5e1-4f4f-a287-6aa9c5a77c0d" />
 </Solution>
