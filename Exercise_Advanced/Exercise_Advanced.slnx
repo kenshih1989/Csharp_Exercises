@@ -15,4 +15,5 @@
   <Project Path="Static_Constructor/Static_Constructor.csproj" Id="502eebf7-39b3-4dae-8bb1-d13787106f10" />
   <Project Path="Ternary_Conditional_Operator/Ternary_Conditional_Operator.csproj" Id="9bb76f6f-7f05-424e-9a8e-12727e386540" />
   <Project Path="Tuples/Tuples.csproj" Id="7f09fba3-e5e1-4f4f-a287-6aa9c5a77c0d" />
+  <Project Path="Using_IDisposable/Using_IDisposable.csproj" Id="8e7fd307-4031-4ad6-9a1b-5d2123a8edf8" />
 </Solution>
