@@ -9,6 +9,7 @@
   <Project Path="Null-Coalesing_Operators/Null-Coalesing_Operators.csproj" Id="2914f5b8-ad52-4775-b7f2-bce3b917bb71" />
   <Project Path="Nullable_Span_Bitwise/Nullable_Span_Bitwise.csproj" Id="32218b50-ccaa-47f1-a4bf-7e6ad58a3ce2" />
   <Project Path="Null_Conditional_Operators/Null_Conditional_Operators.csproj" Id="6f58c158-8247-4053-be0d-a447381db9f8" />
+  <Project Path="Operator_Overloading/Operator_Overloading.csproj" Id="6cdd5ca2-afc0-4ced-be4a-240e9625ec9f" />
   <Project Path="Records/Records.csproj" Id="ac7a2922-ee0c-4633-a131-6fe8c0366712" />
   <Project Path="Reflection/Reflection.csproj" />
   <Project Path="Ref_Out_In/Ref_Out_In.csproj" Id="dbf25610-ec4f-44af-aa8f-71283eec4cf3" />
