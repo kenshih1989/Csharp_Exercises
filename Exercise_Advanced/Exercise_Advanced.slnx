@@ -5,6 +5,7 @@
   <Project Path="Enum_Flags/Enum_Flags.csproj" Id="ef128c97-ee84-40b0-b880-85b533a0ee67" />
   <Project Path="Expression-bodied_Members/Expression-bodied_Members.csproj" Id="7fee176c-4c24-4964-9819-f3674bf4f93f" />
   <Project Path="Function_Extension/Function_Extension.csproj" Id="904d47a8-9c8e-4792-ae56-ff98124bf25f" />
+  <Project Path="LINQ/LINQ.csproj" Id="24ceaf88-d262-4600-b032-427c0d789650" />
   <Project Path="nameof_typeof_sizeof_default/nameof_typeof_sizeof_default.csproj" Id="8750219b-77ba-4f3c-a0a5-471c6583568c" />
   <Project Path="Null-Coalesing_Operators/Null-Coalesing_Operators.csproj" Id="2914f5b8-ad52-4775-b7f2-bce3b917bb71" />
   <Project Path="Nullable_Span_Bitwise/Nullable_Span_Bitwise.csproj" Id="32218b50-ccaa-47f1-a4bf-7e6ad58a3ce2" />
