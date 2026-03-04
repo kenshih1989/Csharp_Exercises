@@ -51,4 +51,8 @@
 - [x] **Anoymous Types**: completed on 1 March 2026
 - [x] **Tuples**: completed on 1 March 2026
 - [x] **using, IDisposable**: completed on 2 March 2026
+- [x] **Operator Overloading**: completed on 3 March 2026
+- [x] **LINQ**: completed on 3 March 2026
+- [x] **Assert**: completed on 4 March 2026
+- [x] **async, await, Task**: completed on 5 March 2026
 
