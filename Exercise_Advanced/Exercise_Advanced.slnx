@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="Anonymous_Types/Anonymous_Types.csproj" Id="1ea054c1-a9e2-49c9-b283-18690745fffa" />
   <Project Path="Assert/Assert.csproj" Id="ddf3464c-af77-41ed-bd94-b82803ddb3dc" />
+  <Project Path="Async_Await_Task/Async_Await_Task.csproj" Id="b5b9ba9f-a033-4632-9706-32b946282da0" />
   <Project Path="Class_Indexer/Class_Indexer.csproj" Id="a0d460ba-eec8-4d5f-9f88-c8e95c8d0174" />
   <Project Path="Data_Boxing/Data_Boxing.csproj" Id="44182d7d-1731-453b-b21c-0c12f9675e3d" />
   <Project Path="Enum_Flags/Enum_Flags.csproj" Id="ef128c97-ee84-40b0-b880-85b533a0ee67" />
