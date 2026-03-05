@@ -55,4 +55,6 @@
 - [x] **LINQ**: completed on 3 March 2026
 - [x] **Assert**: completed on 4 March 2026
 - [x] **async, await, Task**: completed on 5 March 2026
+- [x] **Multithreading**: completed on 5 March 2026
 
+Exercises completed
